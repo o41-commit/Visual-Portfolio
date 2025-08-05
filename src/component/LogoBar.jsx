@@ -1,8 +1,8 @@
 import React from 'react'
-import Image1 from '../assets/image 1 (Traced).svg'
-import Image2 from '../assets/image 2 (Traced).svg'
-import Image3 from '../assets/image 5 (Traced).svg'
-import Image4 from '../assets/image 7 (Traced).svg'
+import Image1 from '../assets/ImageTraced1.svg'
+import Image2 from '../assets/ImageTraced2.svg'
+import Image3 from '../assets/ImageTraced3.svg'
+import Image4 from '../assets/ImageTraced4.svg'
 
 const LogoBar = () => {
   return (

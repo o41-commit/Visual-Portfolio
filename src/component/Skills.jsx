@@ -1,7 +1,7 @@
 import React from 'react'
-import Image from '../assets/Skills Card Icon.svg'
-import Image1 from '../assets/Skills Card Icon (1).svg'
-import Image2 from '../assets/Skills Card Icon (2).svg'
+import Image from '../assets/SkillsCardIcon.svg'
+import Image1 from '../assets/SkillsCardIcon1.svg'
+import Image2 from '../assets/SkillsCardIcon2.svg'
 
 const Skills = () => {
   return (

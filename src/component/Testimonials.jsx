@@ -1,6 +1,6 @@
 import React from 'react'
 import Star from '../assets/Stars.svg'
-import ClientImg  from '../assets/Client Image.svg'
+import ClientImg  from '../assets/ClientImage.svg'
 
 
 const Testimonials = () => {

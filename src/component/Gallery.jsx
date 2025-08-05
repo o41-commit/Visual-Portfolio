@@ -1,10 +1,10 @@
 import React from 'react'
-import Image1 from '../assets/image.svg'
-import Image2 from '../assets/image (1).svg'
-import Image3 from '../assets/image (2).svg'
-import Image4 from '../assets/image (3).svg'
-import Image5 from '../assets/image (4).svg'
-import Image6 from '../assets/image (5).svg'
+import Image1 from '../assets/Image.svg'
+import Image2 from '../assets/Image1.svg'
+import Image3 from '../assets/Image2.svg'
+import Image4 from '../assets/Image3.svg'
+import Image5 from '../assets/Image4.svg'
+import Image6 from '../assets/Image5.svg'
 
 const Gallery = () => {
   return (
