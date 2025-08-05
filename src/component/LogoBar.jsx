@@ -9,7 +9,7 @@ const LogoBar = () => {
     <section>
       <div>
         <ul className='flex gap-[39px] items-center xl:gap-[200px] md:gap-[130px] md:my-[80px] my-[50px]'>
-            <li className='font-bold text-2xl'>Goggle</li>
+            <li className='font-bold text-1xl md:text-3xl lg:text-4xl'>Goggle</li>
             <li><img src={Image1} alt="Nike image" /></li>
             <li><img src={Image2} alt="Apple image" /></li>
             <li><img src={Image3} alt="Samsung image" /></li>
