@@ -19,7 +19,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
@@ -38,7 +38,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
@@ -57,7 +57,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
@@ -76,7 +76,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
@@ -95,7 +95,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
@@ -114,7 +114,7 @@ const Testimonials = () => {
                     <div>
                         <img src={ClientImg} alt="Client image" />       
                     </div>
-                    <div className='py-[30px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
+                    <div className='py-[15px] px-[9px] text-[10px] font-semibold lg:text-[15px] md:text-[13px]'>
                         <div>
                             <img src={Star} alt="Star" />
                         </div>
